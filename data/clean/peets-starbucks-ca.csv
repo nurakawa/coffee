@@ -1,0 +1,483 @@
+"","city","starbucks_count","peets_count","median_age","median_household_income","X2010_population","p_white","land_area"
+"Adelanto","Adelanto",1,0,25.3,42208,31765,44,56.01
+"Agoura Hills","Agoura Hills",2,0,42.4,108820,20330,84,7.79
+"Alameda","Alameda",6,2,40.7,75832,73812,51,10.61
+"Albany","Albany",1,0,37,72479,18539,55,1.79
+"Alhambra","Alhambra",5,1,39.3,52717,83089,28,7.63
+"Aliso Viejo","Aliso Viejo",3,0,35.1,99095,47823,72,7.47
+"Alturas","Alturas",0,0,NA,NA,NA,NA,NA
+"Amador City","Amador City",0,0,NA,NA,NA,NA,NA
+"American Canyon","American Canyon",2,0,35.5,83581,19454,39,4.84
+"Anaheim","Anaheim",22,0,32.4,59330,336265,53,49.84
+"Anderson","Anderson",2,0,34.1,34862,9932,83,6.37
+"Angels Camp","Angels Camp",1,0,45.9,48614,3836,87,3.63
+"Antioch","Antioch",6,1,33.8,66479,102372,49,28.35
+"Apple Valley","Apple Valley",4,0,37,50664,69135,69,73.19
+"Arcadia","Arcadia",4,0,43.1,77221,56364,32,10.93
+"Arcata","Arcata",0,0,NA,NA,NA,NA,NA
+"Arroyo Grande","Arroyo Grande",2,0,45.4,64900,17252,85,5.84
+"Artesia","Artesia",1,0,38.2,58281,16522,39,1.62
+"Arvin","Arvin",0,0,NA,NA,NA,NA,NA
+"Atascadero","Atascadero",3,0,41,68502,28310,86,25.64
+"Atherton","Atherton",0,0,NA,NA,NA,NA,NA
+"Atwater","Atwater",3,0,30,40752,28168,65,6.09
+"Auburn","Auburn",7,0,45.4,62600,13330,89,7.14
+"Avalon","Avalon",0,0,NA,NA,NA,NA,NA
+"Avenal","Avenal",0,0,NA,NA,NA,NA,NA
+"Azusa","Azusa",3,0,29.3,53826,46361,58,9.66
+"Bakersfield","Bakersfield",29,0,30,54656,347483,57,142.16
+"Baldwin Park","Baldwin Park",3,0,30.5,52094,75390,44,6.63
+"Banning","Banning",2,0,42.3,37373,29603,65,23.1
+"Barstow","Barstow",3,0,31.1,45417,22639,52,41.38
+"Beaumont","Beaumont",2,0,32.5,66132,36877,63,30.91
+"Bell","Bell",1,0,28.9,37121,35477,54,2.5
+"Bell Gardens","Bell Gardens",1,0,27.3,38971,42072,49,2.46
+"Bellflower","Bellflower",2,0,31.9,50244,76616,42,6.12
+"Belmont","Belmont",3,2,40.9,100417,25835,68,4.62
+"Belvedere","Belvedere",0,0,NA,NA,NA,NA,NA
+"Benicia","Benicia",4,0,42.9,90338,26997,72,12.93
+"Berkeley","Berkeley",5,7,31,60908,112580,60,10.47
+"Beverly Hills","Beverly Hills",5,1,43.6,85560,34109,82,5.71
+"Big Bear Lake","Big Bear Lake",2,0,46.1,31541,5019,84,6.35
+"Biggs","Biggs",0,0,NA,NA,NA,NA,NA
+"Bishop","Bishop",2,0,38.9,34258,3879,74,1.86
+"Blue Lake","Blue Lake",0,0,NA,NA,NA,NA,NA
+"Blythe","Blythe",2,0,38,46235,20817,60,26.19
+"Bradbury","Bradbury",0,0,NA,NA,NA,NA,NA
+"Brawley","Brawley",2,0,30.2,36233,24953,54,7.68
+"Brea","Brea",8,0,38.7,81278,39282,67,12.08
+"Brentwood","Brentwood",1,2,35.6,87642,51481,68,14.79
+"Brisbane","Brisbane",0,0,NA,NA,NA,NA,NA
+"Buellton","Buellton",0,0,NA,NA,NA,NA,NA
+"Buena Park","Buena Park",6,0,35.1,64809,80530,45,10.52
+"Burbank","Burbank",16,0,38.9,66024,103340,73,17.34
+"Burlingame","Burlingame",5,1,40.5,79760,28806,68,4.41
+"Calabasas","Calabasas",3,0,41.6,118182,23058,84,12.9
+"Calexico","Calexico",1,0,31.8,35988,38572,60,8.39
+"California City","California City",0,0,NA,NA,NA,NA,NA
+"Calimesa","Calimesa",0,0,NA,NA,NA,NA,NA
+"Calipatria","Calipatria",0,0,NA,NA,NA,NA,NA
+"Calistoga","Calistoga",0,0,NA,NA,NA,NA,NA
+"Camarillo","Camarillo",6,0,40.8,84168,65201,75,19.53
+"Campbell","Campbell",7,0,38.3,82687,39349,67,5.8
+"Canyon Lake","Canyon Lake",0,0,NA,NA,NA,NA,NA
+"Capitola","Capitola",3,1,41.9,50696,9918,80,1.59
+"Carlsbad","Carlsbad",9,1,40.4,85743,105328,83,37.72
+"Carmel-by-the-Sea","Carmel-by-the-Sea",2,0,59.2,76463,3722,93,1.08
+"Carpinteria","Carpinteria",2,0,39.5,68498,13040,72,2.59
+"Carson","Carson",8,0,37.6,70416,91714,24,18.72
+"Cathedral City","Cathedral City",3,0,36,45088,51200,64,21.5
+"Ceres","Ceres",2,0,29.4,48550,45417,58,8.01
+"Cerritos","Cerritos",4,0,44,87853,49041,23,8.73
+"Chico","Chico",6,1,28.6,41632,86187,81,32.92
+"Chino","Chino",11,0,33.2,73400,77983,56,29.64
+"Chino Hills","Chino Hills",0,0,NA,NA,NA,NA,NA
+"Chowchilla","Chowchilla",1,0,34.7,41858,18720,62,7.66
+"Chula Vista","Chula Vista",12,0,33.7,65526,243916,54,49.63
+"Citrus Heights","Citrus Heights",4,0,36.2,54575,83301,80,14.23
+"Claremont","Claremont",4,0,38.6,81715,34926,71,13.35
+"Clayton","Clayton",1,1,45,131991,10897,85,3.84
+"Clearlake","Clearlake",0,0,NA,NA,NA,NA,NA
+"Cloverdale","Cloverdale",1,0,39.7,56649,8618,75,2.65
+"Clovis","Clovis",10,0,34.1,65300,95631,71,23.28
+"Coachella","Coachella",1,0,24.5,43357,40704,48,28.95
+"Coalinga","Coalinga",1,0,31.9,47101,13380,58,6.12
+"Colfax","Colfax",1,0,37.9,58750,1963,90,1.41
+"Colma","Colma",2,0,36.4,80972,1792,35,1.91
+"Colton","Colton",3,0,28.4,41788,52154,43,15.32
+"Colusa","Colusa",0,0,NA,NA,NA,NA,NA
+"Commerce","Commerce",3,0,31.2,48878,12823,54,6.54
+"Compton","Compton",4,0,28,43311,96455,26,10.01
+"Concord","Concord",11,3,37,65769,122067,65,30.55
+"Corcoran","Corcoran",0,0,NA,NA,NA,NA,NA
+"Corning","Corning",1,0,29.2,38225,7663,72,3.55
+"Corona","Corona",12,1,32.5,79877,152374,60,38.83
+"Coronado","Coronado",1,0,40.7,93777,18912,88,7.93
+"Corte Madera","Corte Madera",3,1,44.2,106541,9253,84,3.16
+"Costa Mesa","Costa Mesa",16,1,33.6,65471,109960,69,15.65
+"Cotati","Cotati",1,1,36.2,62969,7265,82,1.88
+"Covina","Covina",2,0,35.7,67638,47796,58,7.03
+"Crescent City","Crescent City",1,0,34.9,30058,7643,66,1.96
+"Cudahy","Cudahy",0,0,NA,NA,NA,NA,NA
+"Culver City","Culver City",5,0,40.5,75596,38883,60,5.11
+"Cupertino","Cupertino",6,2,39.9,124825,58302,31,11.26
+"Cypress","Cypress",3,0,39.9,82954,47802,54,6.58
+"Daly City","Daly City",5,0,38.3,75399,101123,24,7.66
+"Dana Point","Dana Point",5,0,44.8,83306,33351,86,6.5
+"Danville","Danville",6,1,44.5,133360,42039,83,18.03
+"Davis","Davis",8,2,25.2,61182,65622,65,9.89
+"Del Mar","Del Mar",4,1,48.6,114531,4161,94,1.71
+"Del Rey Oaks","Del Rey Oaks",2,0,46.2,76923,1624,82,0.48
+"Delano","Delano",1,0,28.5,37810,53041,36,14.3
+"Desert Hot Springs","Desert Hot Springs",1,0,31,34606,25938,58,23.62
+"Diamond Bar","Diamond Bar",4,0,41,90153,55544,33,14.88
+"Dinuba","Dinuba",1,0,27.2,40463,21453,52,6.47
+"Dixon","Dixon",2,0,33.3,72626,18351,71,7
+"Dorris","Dorris",0,0,NA,NA,NA,NA,NA
+"Dos Palos","Dos Palos",0,0,NA,NA,NA,NA,NA
+"Downey","Downey",3,0,33.3,59773,111772,57,12.41
+"Duarte","Duarte",1,0,39.9,64329,21321,52,6.69
+"Dublin","Dublin",6,1,35.3,111481,46036,51,14.91
+"Dunsmuir","Dunsmuir",0,0,NA,NA,NA,NA,NA
+"East Palo Alto","East Palo Alto",0,0,NA,NA,NA,NA,NA
+"Eastvale","Eastvale",1,0,30.9,115025,53668,43,11.41
+"El Cajon","El Cajon",13,0,33.7,47303,99478,69,14.43
+"El Centro","El Centro",4,0,31.8,38297,42598,60,11.08
+"El Cerrito","El Cerrito",3,1,43.5,69301,23549,53,3.69
+"El Monte","El Monte",4,0,31.6,41820,113475,39,9.56
+"El Segundo","El Segundo",6,1,39.2,88486,16654,78,5.46
+"Elk Grove","Elk Grove",11,1,34.3,78564,153015,46,42.19
+"Emeryville","Emeryville",4,1,35,69274,10080,45,1.25
+"Encinitas","Encinitas",9,1,41.5,88458,59518,86,18.81
+"Escalon","Escalon",1,0,36,61855,7132,82,2.3
+"Escondido","Escondido",15,0,32.5,50597,143911,60,36.81
+"Etna","Etna",0,0,NA,NA,NA,NA,NA
+"Eureka","Eureka",4,0,36.2,36081,27191,79,9.38
+"Exeter","Exeter",0,0,NA,NA,NA,NA,NA
+"Fairfax","Fairfax",0,1,NA,NA,NA,NA,NA
+"Fairfield","Fairfield",8,1,33.7,68037,105321,46,37.39
+"Farmersville","Farmersville",0,0,NA,NA,NA,NA,NA
+"Ferndale","Ferndale",0,0,NA,NA,NA,NA,NA
+"Fillmore","Fillmore",1,1,31.9,60605,15002,57,3.36
+"Firebaugh","Firebaugh",0,0,NA,NA,NA,NA,NA
+"Folsom","Folsom",12,2,37.6,95143,72203,74,21.95
+"Fontana","Fontana",7,0,28.7,64058,196069,47,42.43
+"Fort Bragg","Fort Bragg",1,0,37.4,35030,7273,75,2.75
+"Fort Jones","Fort Jones",0,0,NA,NA,NA,NA,NA
+"Fortuna","Fortuna",1,0,38.1,37532,11926,81,4.85
+"Foster City","Foster City",2,0,39.3,115053,30567,46,3.76
+"Fountain Valley","Fountain Valley",5,0,42.6,81661,55313,56,9.02
+"Fowler","Fowler",1,0,31.6,54698,5570,47,2.53
+"Fremont","Fremont",14,1,36.8,98513,214089,33,77.46
+"Fresno","Fresno",33,0,29.3,43440,494665,50,111.96
+"Fullerton","Fullerton",13,0,34.8,69432,135161,54,22.35
+"Galt","Galt",0,0,NA,NA,NA,NA,NA
+"Garden Grove","Garden Grove",9,0,35.6,60036,170883,40,17.94
+"Gardena","Gardena",3,0,37.9,46961,58829,25,5.83
+"Gilroy","Gilroy",4,0,32.4,75483,48821,59,16.15
+"Glendale","Glendale",13,0,41,54087,191719,71,30.45
+"Glendora","Glendora",4,0,40.2,75939,50073,75,19.39
+"Goleta","Goleta",3,0,36.5,72870,29888,70,7.9
+"Gonzales","Gonzales",1,0,27,52928,8187,42,1.92
+"Grand Terrace","Grand Terrace",0,0,NA,NA,NA,NA,NA
+"Grass Valley","Grass Valley",2,0,43.2,35843,12860,89,4.74
+"Greenfield","Greenfield",0,0,NA,NA,NA,NA,NA
+"Gridley","Gridley",1,0,33.1,36563,6584,65,2.07
+"Grover Beach","Grover Beach",1,0,36.9,47708,13156,76,2.31
+"Guadalupe","Guadalupe",0,0,NA,NA,NA,NA,NA
+"Gustine","Gustine",1,0,35.3,45639,5520,70,1.55
+"Half Moon Bay","Half Moon Bay",1,1,43.2,96208,11324,76,6.42
+"Hanford","Hanford",3,0,30.9,54421,53967,62,16.59
+"Hawaiian Gardens","Hawaiian Gardens",1,0,28.4,42898,14254,45,0.95
+"Hawthorne","Hawthorne",5,0,31.5,45622,84293,33,6.08
+"Hayward","Hayward",11,1,33.5,62115,144186,34,45.32
+"Healdsburg","Healdsburg",2,0,40.8,63666,11254,74,4.46
+"Hemet","Hemet",4,0,39,34273,78657,68,27.85
+"Hercules","Hercules",2,0,39,94493,24060,22,6.21
+"Hermosa Beach","Hermosa Beach",3,0,37,102289,19506,87,1.43
+"Hesperia","Hesperia",4,0,30.5,48624,90173,61,73.1
+"Hidden Hills","Hidden Hills",0,0,NA,NA,NA,NA,NA
+"Highland","Highland",1,1,30.6,59419,53104,52,18.76
+"Hillsborough","Hillsborough",0,0,NA,NA,NA,NA,NA
+"Hollister","Hollister",3,0,30.8,62570,34928,59,7.29
+"Holtville","Holtville",0,0,NA,NA,NA,NA,NA
+"Hughson","Hughson",0,0,NA,NA,NA,NA,NA
+"Huntington Beach","Huntington Beach",18,1,40.2,80901,189992,77,26.75
+"Huntington Park","Huntington Park",2,0,28.9,36788,58114,51,3.01
+"Huron","Huron",0,0,NA,NA,NA,NA,NA
+"Imperial","Imperial",0,0,NA,NA,NA,NA,NA
+"Imperial Beach","Imperial Beach",0,0,NA,NA,NA,NA,NA
+"Indian Wells","Indian Wells",0,0,NA,NA,NA,NA,NA
+"Indio","Indio",5,0,32.2,52199,76036,61,29.18
+"Industry","Industry",1,0,37.5,49792,219,59,11.78
+"Inglewood","Inglewood",3,0,33.4,44021,109673,23,9.07
+"Ione","Ione",0,0,NA,NA,NA,NA,NA
+"Irvine","Irvine",22,3,33.9,92599,212375,50,66.11
+"Irwindale","Irwindale",1,0,34,65455,1422,59,8.83
+"Isleton","Isleton",0,0,NA,NA,NA,NA,NA
+"Jackson","Jackson",1,0,46,48631,4651,88,3.73
+"Jurupa Valley","Jurupa Valley",0,0,NA,NA,NA,NA,NA
+"Kerman","Kerman",0,0,NA,NA,NA,NA,NA
+"King City","King City",1,0,25.9,52634,12874,48,3.84
+"Kingsburg","Kingsburg",1,0,33.7,58091,11382,75,2.83
+"La Cañada Flintridge","La Cañada Flintridge",0,0,NA,NA,NA,NA,NA
+"La Habra","La Habra",5,0,33.6,63356,60239,58,7.37
+"La Habra Heights","La Habra Heights",0,0,NA,NA,NA,NA,NA
+"La Mesa","La Mesa",9,0,37.1,54519,57065,72,9.08
+"La Mirada","La Mirada",3,0,37.9,81913,48527,61,7.84
+"La Palma","La Palma",0,0,NA,NA,NA,NA,NA
+"La Puente","La Puente",0,0,NA,NA,NA,NA,NA
+"La Quinta","La Quinta",4,0,45.6,77790,37467,79,35.12
+"La Verne","La Verne",4,0,42.9,77088,31063,74,8.43
+"Lafayette","Lafayette",3,1,45.2,134871,23893,85,15.22
+"Laguna Beach","Laguna Beach",4,0,48.3,99190,22723,91,8.85
+"Laguna Hills","Laguna Hills",3,0,40.8,85971,30344,73,6.67
+"Laguna Niguel","Laguna Niguel",6,1,42.8,100480,62979,80,14.83
+"Laguna Woods","Laguna Woods",1,0,77,35393,16192,87,3.12
+"Lake Elsinore","Lake Elsinore",5,0,29.8,63771,51821,60,36.21
+"Lake Forest","Lake Forest",6,1,37.2,94632,77264,70,17.82
+"Lakeport","Lakeport",1,0,44.2,45302,4753,83,3.06
+"Lakewood","Lakewood",6,0,37.5,78360,80048,56,9.41
+"Lancaster","Lancaster",5,0,30.4,52290,156633,50,94.28
+"Larkspur","Larkspur",2,0,48.5,86046,11926,86,3.03
+"Lathrop","Lathrop",2,0,30.5,64732,18023,41,21.93
+"Lawndale","Lawndale",1,0,31.9,48813,32769,44,1.97
+"Lemon Grove","Lemon Grove",2,0,35,50353,25320,52,3.88
+"Lemoore","Lemoore",1,0,28.6,58706,24531,57,8.52
+"Lincoln","Lincoln",4,1,40.5,75071,42819,80,20.11
+"Lindsay","Lindsay",1,0,24.6,29750,11768,55,2.61
+"Live Oak","Live Oak",0,0,NA,NA,NA,NA,NA
+"Livermore","Livermore",11,1,38.3,96322,80968,75,25.17
+"Livingston","Livingston",1,0,27.4,45313,13058,40,3.72
+"Lodi","Lodi",6,0,34.3,49318,62134,69,13.61
+"Loma Linda","Loma Linda",2,0,33.2,61116,23261,48,7.52
+"Lomita","Lomita",1,0,39.6,61327,20256,59,1.91
+"Lompoc","Lompoc",2,0,33.9,47592,42434,61,11.6
+"Long Beach","Long Beach",26,1,33.2,52945,462257,46,50.29
+"Loomis","Loomis",1,0,42.1,86990,6430,89,7.27
+"Los Alamitos","Los Alamitos",1,0,38.7,79861,11449,71,4.05
+"Los Altos","Los Altos",3,2,46.2,151856,28976,71,6.49
+"Los Altos Hills","Los Altos Hills",0,0,NA,NA,NA,NA,NA
+"Los Angeles","Los Angeles",221,5,34.1,50028,3792621,50,468.67
+"Los Banos","Los Banos",3,0,29.8,51478,35972,58,9.99
+"Los Gatos","Los Gatos",5,1,45,122875,29413,82,11.08
+"Loyalton","Loyalton",0,0,NA,NA,NA,NA,NA
+"Lynwood","Lynwood",2,0,27.8,43782,69772,39,4.84
+"Madera","Madera",2,1,26.6,41991,61416,50,15.79
+"Malibu","Malibu",4,0,47.8,132926,12645,91,19.78
+"Mammoth Lakes","Mammoth Lakes",2,0,32.6,56521,8234,81,24.87
+"Manhattan Beach","Manhattan Beach",3,1,40.9,132752,35135,84,3.94
+"Manteca","Manteca",5,0,33.6,60963,67096,62,17.73
+"Maricopa","Maricopa",0,0,NA,NA,NA,NA,NA
+"Marina","Marina",2,1,34,51817,19718,45,8.88
+"Martinez","Martinez",5,0,42.2,79705,35824,77,12.13
+"Marysville","Marysville",1,0,32.5,37836,12072,71,3.46
+"Maywood","Maywood",0,0,NA,NA,NA,NA,NA
+"McFarland","McFarland",0,0,NA,NA,NA,NA,NA
+"Mendota","Mendota",0,0,NA,NA,NA,NA,NA
+"Menifee","Menifee",2,0,38.1,54068,77519,72,46.47
+"Menlo Park","Menlo Park",6,2,38.7,111244,32026,70,9.79
+"Merced","Merced",4,0,28.1,37025,78958,52,23.32
+"Mill Valley","Mill Valley",4,1,46.6,109759,13903,89,4.76
+"Millbrae","Millbrae",2,1,44.8,83992,21532,47,3.25
+"Milpitas","Milpitas",10,1,36.1,94589,66790,21,13.59
+"Mission Viejo","Mission Viejo",10,0,42.2,96420,93305,80,17.74
+"Modesto","Modesto",16,0,34.2,49852,201165,65,36.87
+"Monrovia","Monrovia",3,0,37.9,68071,36590,60,13.6
+"Montague","Montague",0,0,NA,NA,NA,NA,NA
+"Montclair","Montclair",2,1,30.7,50959,36664,53,5.52
+"Monte Sereno","Monte Sereno",0,0,NA,NA,NA,NA,NA
+"Montebello","Montebello",3,0,34.7,52496,62500,54,8.33
+"Monterey","Monterey",4,1,36.9,62720,27810,78,8.47
+"Monterey Park","Monterey Park",1,0,43.1,51736,60269,19,7.67
+"Moorpark","Moorpark",3,1,34.7,103009,34421,75,12.58
+"Moraga","Moraga",2,1,45,121875,16016,76,9.43
+"Moreno Valley","Moreno Valley",6,0,28.6,56768,193365,42,51.27
+"Morgan Hill","Morgan Hill",7,1,36.8,94301,37882,65,12.88
+"Morro Bay","Morro Bay",1,0,48.9,52582,10234,87,5.3
+"Mount Shasta","Mount Shasta",0,0,NA,NA,NA,NA,NA
+"Mountain View","Mountain View",10,2,35.9,91446,74066,56,12
+"Murrieta","Murrieta",9,0,33.4,80792,103466,70,33.58
+"Napa","Napa",9,1,37.4,62642,76915,75,17.84
+"National City","National City",5,0,30.2,36907,58582,42,7.28
+"Needles","Needles",0,0,NA,NA,NA,NA,NA
+"Nevada City","Nevada City",0,0,NA,NA,NA,NA,NA
+"Newark","Newark",5,0,35.4,81777,42573,41,13.87
+"Newman","Newman",0,0,NA,NA,NA,NA,NA
+"Newport Beach","Newport Beach",17,1,44,108946,85186,87,23.8
+"Norco","Norco",3,0,39.5,84812,27063,76,13.96
+"Norwalk","Norwalk",6,0,32.5,60090,105549,49,9.71
+"Novato","Novato",6,2,42.6,78628,51904,76,27.44
+"Oakdale","Oakdale",2,0,34.9,61183,20675,80,6.04
+"Oakland","Oakland",17,6,36.2,51144,390724,35,55.79
+"Oakley","Oakley",1,0,32,78102,35432,64,15.85
+"Oceanside","Oceanside",10,0,35.2,63394,167086,65,41.23
+"Ojai","Ojai",1,0,47.1,63750,7461,88,4.39
+"Ontario","Ontario",10,0,29.9,55902,163924,51,49.94
+"Orange","Orange",13,0,34.8,78654,136416,67,24.8
+"Orange Cove","Orange Cove",0,0,NA,NA,NA,NA,NA
+"Orinda","Orinda",2,1,47.8,157500,17643,82,12.68
+"Orland","Orland",0,0,NA,NA,NA,NA,NA
+"Oroville","Oroville",0,0,NA,NA,NA,NA,NA
+"Oxnard","Oxnard",9,0,29.9,60191,197899,48,26.89
+"Pacific Grove","Pacific Grove",1,0,48.1,70211,15041,85,2.86
+"Pacifica","Pacifica",4,0,41.5,93436,37234,65,12.66
+"Palm Desert","Palm Desert",10,0,53,53940,48445,82,26.81
+"Palm Springs","Palm Springs",7,0,51.6,45989,44552,76,94.12
+"Palmdale","Palmdale",7,0,29.7,55213,152750,49,105.96
+"Palo Alto","Palo Alto",10,4,41.9,122532,64403,64,23.88
+"Palos Verdes Estates","Palos Verdes Estates",0,0,NA,NA,NA,NA,NA
+"Paradise","Paradise",0,0,NA,NA,NA,NA,NA
+"Paramount","Paramount",2,0,28.6,42831,54098,42,4.73
+"Parlier","Parlier",0,0,NA,NA,NA,NA,NA
+"Pasadena","Pasadena",23,2,37.2,67920,137122,56,22.97
+"Paso Robles","Paso Robles",6,0,35.3,57927,29793,78,19.12
+"Patterson","Patterson",0,0,NA,NA,NA,NA,NA
+"Perris","Perris",3,0,25.9,49812,68386,42,31.39
+"Petaluma","Petaluma",8,2,40.3,76185,57941,80,14.38
+"Pico Rivera","Pico Rivera",2,0,34,55632,62942,59,8.3
+"Piedmont","Piedmont",0,1,NA,NA,NA,NA,NA
+"Pinole","Pinole",2,1,42.6,80042,18390,46,5.32
+"Pismo Beach","Pismo Beach",1,0,51.8,65682,7655,91,3.6
+"Pittsburg","Pittsburg",4,0,32.5,57965,63264,37,17.22
+"Placentia","Placentia",0,0,NA,NA,NA,NA,NA
+"Placerville","Placerville",3,0,40.4,53385,10389,84,5.81
+"Pleasant Hill","Pleasant Hill",6,1,40.7,78765,33152,75,7.07
+"Pleasanton","Pleasanton",7,2,40.5,118713,70285,67,24.11
+"Plymouth","Plymouth",0,0,NA,NA,NA,NA,NA
+"Point Arena","Point Arena",0,0,NA,NA,NA,NA,NA
+"Pomona","Pomona",6,0,29.5,50893,149058,48,22.95
+"Port Hueneme","Port Hueneme",1,0,31.3,52244,21723,57,4.45
+"Porterville","Porterville",4,0,28.8,39933,54165,59,17.61
+"Portola","Portola",0,1,NA,NA,NA,NA,NA
+"Portola Valley","Portola Valley",0,0,NA,NA,NA,NA,NA
+"Poway","Poway",4,0,41.3,94872,47811,77,39.08
+"Rancho Cordova","Rancho Cordova",8,0,33.1,53878,64776,60,33.51
+"Rancho Cucamonga","Rancho Cucamonga",12,0,34.5,78782,165269,62,39.85
+"Rancho Mirage","Rancho Mirage",3,0,62.3,76261,17218,89,24.45
+"Rancho Palos Verdes","Rancho Palos Verdes",2,0,47.8,116643,41643,62,13.46
+"Rancho Santa Margarita","Rancho Santa Margarita",7,0,36,104167,47853,78,12.96
+"Red Bluff","Red Bluff",2,0,32.2,31690,14076,81,7.56
+"Redding","Redding",9,0,38.5,43157,89861,86,59.65
+"Redlands","Redlands",7,0,36.2,68015,68747,69,36.13
+"Redondo Beach","Redondo Beach",6,1,39.3,94982,66748,75,6.2
+"Redwood City","Redwood City",9,1,36.7,77111,76815,60,19.42
+"Reedley","Reedley",1,0,29.1,46776,24194,58,5.08
+"Rialto","Rialto",2,0,28.3,50452,99171,44,22.35
+"Richmond","Richmond",3,0,34.8,54554,103701,31,30.07
+"Ridgecrest","Ridgecrest",2,0,33.8,59830,27616,77,20.77
+"Rio Dell","Rio Dell",0,0,NA,NA,NA,NA,NA
+"Rio Vista","Rio Vista",0,0,NA,NA,NA,NA,NA
+"Ripon","Ripon",1,0,37.1,75934,14297,80,5.3
+"Riverbank","Riverbank",3,0,31,59779,22678,66,4.09
+"Riverside","Riverside",20,0,30,57555,303871,56,81.14
+"Rocklin","Rocklin",8,1,36.7,79675,56974,83,19.54
+"Rohnert Park","Rohnert Park",6,0,33,56950,40971,76,7
+"Rolling Hills","Rolling Hills",3,0,51.7,69226,1860,77,2.99
+"Rolling Hills Estates","Rolling Hills Estates",0,0,NA,NA,NA,NA,NA
+"Rosemead","Rosemead",3,0,38.1,47964,53764,21,5.16
+"Roseville","Roseville",21,3,36.8,75245,118788,79,36.22
+"Ross","Ross",0,0,NA,NA,NA,NA,NA
+"Sacramento","Sacramento",65,6,33,50781,466488,45,97.92
+"Salinas","Salinas",10,0,28.8,50568,150441,46,23.18
+"San Anselmo","San Anselmo",1,1,44.9,96639,12336,90,2.68
+"San Bernardino","San Bernardino",8,0,28.5,40161,209924,46,59.2
+"San Bruno","San Bruno",5,0,38.8,77468,41114,49,5.48
+"San Carlos","San Carlos",3,1,42.6,118865,28406,79,5.54
+"San Clemente","San Clemente",6,1,39.7,89289,63522,86,18.71
+"San Diego","San Diego",139,5,33.6,63739,1307402,59,325.19
+"San Dimas","San Dimas",4,0,42.6,74610,33371,72,15.04
+"San Fernando","San Fernando",1,0,30.7,52021,23645,51,2.37
+"San Francisco","San Francisco",88,31,38.5,72947,805235,48,46.87
+"San Gabriel","San Gabriel",0,0,NA,NA,NA,NA,NA
+"San Jacinto","San Jacinto",2,0,30.3,47645,44199,57,25.72
+"San Joaquin","San Joaquin",0,0,NA,NA,NA,NA,NA
+"San Jose","San Jose",73,8,35.2,80764,945942,43,176.53
+"San Juan Bautista","San Juan Bautista",0,0,NA,NA,NA,NA,NA
+"San Juan Capistrano","San Juan Capistrano",3,0,40.2,73806,34593,77,14.12
+"San Leandro","San Leandro",6,1,39.3,61857,84950,38,13.34
+"San Luis Obispo","San Luis Obispo",11,1,26.5,42528,45119,84,12.78
+"San Marcos","San Marcos",9,0,32.9,55815,83781,64,24.37
+"San Marino","San Marino",1,0,45.3,154318,13147,41,3.77
+"San Mateo","San Mateo",12,2,38.9,86772,97207,58,12.13
+"San Pablo","San Pablo",2,0,31.6,45305,29139,32,2.63
+"San Rafael","San Rafael",7,2,40.2,71343,57713,71,16.47
+"San Ramon","San Ramon",8,3,37.1,124014,72148,54,18.06
+"Sand City","Sand City",2,0,34.1,39500,334,67,0.56
+"Sanger","Sanger",1,0,29.2,41987,24270,60,5.52
+"Santa Ana","Santa Ana",17,0,29.1,54399,324528,46,27.27
+"Santa Barbara","Santa Barbara",8,2,36.8,63401,88410,75,19.47
+"Santa Clara","Santa Clara",14,2,34.1,89004,116468,45,18.41
+"Santa Clarita","Santa Clarita",18,1,36.2,83579,176320,71,52.72
+"Santa Cruz","Santa Cruz",2,2,29.9,63110,59946,75,12.74
+"Santa Fe Springs","Santa Fe Springs",3,0,35.3,53638,16223,59,8.87
+"Santa Maria","Santa Maria",5,0,28.6,51664,99553,56,22.76
+"Santa Monica","Santa Monica",20,2,40.4,71400,89736,78,8.41
+"Santa Paula","Santa Paula",2,0,31.1,53359,29321,63,4.59
+"Santa Rosa","Santa Rosa",20,2,36.7,60850,167815,71,41.29
+"Santee","Santee",4,0,37.2,69828,53413,83,16.24
+"Saratoga","Saratoga",4,1,47.8,155182,29926,54,12.38
+"Sausalito","Sausalito",1,0,51.1,110040,7061,91,1.77
+"Scotts Valley","Scotts Valley",3,1,41.7,99076,11580,86,4.59
+"Seal Beach","Seal Beach",3,1,57.3,50958,24168,83,11.29
+"Seaside","Seaside",2,0,30.6,58403,33025,48,9.24
+"Sebastopol","Sebastopol",2,0,46.1,60000,7379,88,1.85
+"Selma","Selma",0,0,NA,NA,NA,NA,NA
+"Shafter","Shafter",0,0,NA,NA,NA,NA,NA
+"Shasta Lake","Shasta Lake",0,0,NA,NA,NA,NA,NA
+"Sierra Madre","Sierra Madre",1,0,46.6,84487,10917,82,2.95
+"Signal Hill","Signal Hill",1,0,36,69946,11016,42,2.19
+"Simi Valley","Simi Valley",12,0,37.8,89452,124237,75,41.48
+"Solana Beach","Solana Beach",2,0,43.7,85317,12867,86,3.52
+"Soledad","Soledad",1,0,34.9,53140,25738,49,4.41
+"Solvang","Solvang",0,0,NA,NA,NA,NA,NA
+"Sonoma","Sonoma",2,1,49.2,63262,10648,87,2.74
+"Sonora","Sonora",3,0,39.7,31424,4903,90,3.06
+"South El Monte","South El Monte",0,0,NA,NA,NA,NA,NA
+"South Gate","South Gate",3,0,29.4,41990,94396,50,7.24
+"South Lake Tahoe","South Lake Tahoe",4,0,35.6,41685,21403,74,10.16
+"South Pasadena","South Pasadena",3,0,40.1,84914,25619,54,3.41
+"South San Francisco","South San Francisco",3,1,38.1,75543,63632,37,9.14
+"St. Helena","St. Helena",0,0,NA,NA,NA,NA,NA
+"Stanton","Stanton",1,0,33,51933,38186,44,3.15
+"Stockton","Stockton",16,1,30.8,47365,291707,37,61.67
+"Suisun City","Suisun City",1,0,33,71411,28111,38,4.11
+"Sunnyvale","Sunnyvale",11,2,35.6,93292,140081,43,21.99
+"Susanville","Susanville",2,0,33.6,49160,17947,63,7.93
+"Sutter Creek","Sutter Creek",0,0,NA,NA,NA,NA,NA
+"Taft","Taft",1,0,34.9,46136,9327,79,15.11
+"Tehachapi","Tehachapi",1,0,34.4,46250,14414,65,9.87
+"Tehama","Tehama",0,0,NA,NA,NA,NA,NA
+"Temecula","Temecula",11,0,33.4,76276,100097,71,30.15
+"Temple City","Temple City",1,0,42,65445,35558,34,4.01
+"Thousand Oaks","Thousand Oaks",15,1,41.5,100373,126683,80,55.03
+"Tiburon","Tiburon",0,1,NA,NA,NA,NA,NA
+"Torrance","Torrance",17,1,41.3,75885,145438,51,20.48
+"Tracy","Tracy",6,0,32.3,76739,82922,53,22
+"Trinidad","Trinidad",0,0,NA,NA,NA,NA,NA
+"Truckee","Truckee",3,0,38,68173,16180,86,32.32
+"Tulare","Tulare",2,0,29.1,46274,59278,61,20.93
+"Tulelake","Tulelake",0,0,NA,NA,NA,NA,NA
+"Turlock","Turlock",6,0,32.5,50862,68549,70,16.93
+"Tustin","Tustin",7,0,33.4,73231,75540,53,11.08
+"Twentynine Palms","Twentynine Palms",1,0,23.5,43412,25048,72,59.14
+"Ukiah","Ukiah",3,0,35.9,45577,16075,72,4.67
+"Union City","Union City",5,0,36.2,82634,69516,24,19.47
+"Upland","Upland",4,0,36.1,67449,73732,66,15.62
+"Vacaville","Vacaville",8,0,37.2,73302,92428,66,28.37
+"Vallejo","Vallejo",6,0,37.9,62325,115942,33,30.67
+"Ventura","Ventura",12,2,39,66226,106433,77,21.65
+"Vernon","Vernon",0,0,NA,NA,NA,NA,NA
+"Victorville","Victorville",6,0,29.5,52357,115903,49,73.18
+"Villa Park","Villa Park",0,0,NA,NA,NA,NA,NA
+"Visalia","Visalia",9,0,31.6,54019,124442,64,36.25
+"Vista","Vista",8,0,31.1,50777,93834,63,18.68
+"Walnut","Walnut",2,0,43.1,101358,29172,24,8.99
+"Walnut Creek","Walnut Creek",13,0,47.9,84722,64173,79,19.76
+"Wasco","Wasco",0,0,NA,NA,NA,NA,NA
+"Waterford","Waterford",0,0,NA,NA,NA,NA,NA
+"Watsonville","Watsonville",2,0,29.2,46073,51199,44,6.69
+"Weed","Weed",0,0,NA,NA,NA,NA,NA
+"West Covina","West Covina",6,0,36,68308,106098,43,16.04
+"West Hollywood","West Hollywood",0,0,NA,NA,NA,NA,NA
+"West Sacramento","West Sacramento",0,0,NA,NA,NA,NA,NA
+"Westlake Village","Westlake Village",3,0,48.7,113852,8270,89,5.19
+"Westminster","Westminster",7,0,38.7,56867,89701,36,10.05
+"Westmorland","Westmorland",0,0,NA,NA,NA,NA,NA
+"Wheatland","Wheatland",0,0,NA,NA,NA,NA,NA
+"Whittier","Whittier",7,0,35.4,68055,85331,65,14.65
+"Wildomar","Wildomar",3,0,34.6,63519,32176,70,23.69
+"Williams","Williams",0,0,NA,NA,NA,NA,NA
+"Willits","Willits",1,0,37.8,41195,4888,79,2.8
+"Willows","Willows",1,0,32.6,43493,6166,70,2.85
+"Windsor","Windsor",4,0,37,77157,26801,74,7.27
+"Winters","Winters",0,0,NA,NA,NA,NA,NA
+"Woodlake","Woodlake",0,0,NA,NA,NA,NA,NA
+"Woodland","Woodland",5,0,33.7,56859,55468,63,15.3
+"Woodside","Woodside",0,0,NA,NA,NA,NA,NA
+"Yorba Linda","Yorba Linda",3,0,41.7,115291,64234,75,19.48
+"Yountville","Yountville",0,0,NA,NA,NA,NA,NA
+"Yreka","Yreka",1,0,41.7,31151,7765,84,9.98
+"Yuba City","Yuba City",5,0,33,48830,64925,58,14.58
+"Yucaipa","Yucaipa",3,0,37.8,59596,51367,79,27.89
+"Yucca Valley","Yucca Valley",1,0,40.6,45502,20700,83,40.02
