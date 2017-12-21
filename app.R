@@ -19,6 +19,25 @@ ui <- bootstrapPage(
   #           windowTitle = "ca-stbks"),
   tags$style(type = "text/css", "html, body {width:100%;height:100%}"),
   leafletOutput("camap", width = "100%", height = "100%"),
+  absolutePanel(id="about",
+                top=300,
+                left=20,
+                width=350,
+                h3("About this App"),
+                p("This app visualizes the distribution of Starbucks stores accross 
+                  California. Each city is marked by a circle, whose size is proportional 
+                  to its population and whose color is proportional to the number of Starbucks 
+                  locations per capita. To see population and income information about a city, 
+                  select or type its name in the above box. The code and data used to make this app 
+                  are available at github.com/nurakawa/coffee.")),
+  absolutePanel(id="title",
+                #class = "panel panel-default",
+                draggable=FALSE,
+                top = 10,
+                left = 80,
+                width="auto",
+                height = 10,
+                h1("Starbucks Stores CA")),
   absolutePanel(id = "controls", class = "panel panel-default", 
                 fixed = TRUE,
                 draggable = TRUE, 
@@ -29,48 +48,21 @@ ui <- bootstrapPage(
                 width = 300, height = "auto",
                 selectInput("city", label = strong(h4("City Stats")), 
                                                 choices = c("", ca$city), 
-                                                selected = "San Francisco",
+                                                selected = "",
                                                 width = "100%"),
                 fluidRow(
                 valueBoxOutput("popBox"),
                 valueBoxOutput("incomeBox"),
                 valueBoxOutput("starBox")
-                ),
-                textOutput("txt"),
-               tableOutput("bar")
+                )#,
+                #textOutput("txt"),
+               #tableOutput("bar")
   ))
 
 
 ##### 
 # server
 server <- function(input, output, session) {
-  
-  index <- reactive({
-    which(bar$city==input$city)
-  })
-  
-  filteredData <- reactive({
-    as.character(bar[(bar$rank %in% seq(bar$rank[index()]-2,
-                          bar$rank[index()]+2,
-                          1)),1])
-  })
-  
-  filteredData2 <- reactive({
-    filteredData()[filteredData() != input$city]
-  })
-  
-  
-  output$bar <- renderTable(
-    #"Cities with Similar #Starbucks per Capita",
-    filteredData2(),
-    colnames = FALSE    #plt <- gvisBarChart(filteredData(),
-    #                   options = list(title="Cities with Similar # Starbucks per Capita",
-    #                                  colors = "['darkgreen']")) 
-  )
-  
-  output$txt <- renderText("Cities with Similar #Starbucks/Capita \n \n")
-    
-  
   output$starBox <- renderValueBox({
     df <- df_valueBox[df_valueBox$city == input$city,]
     valueBox(
@@ -96,15 +88,15 @@ server <- function(input, output, session) {
   output$camap <- renderLeaflet({
     
     leaflet(ca) %>% addTiles() %>% 
-      setView(lng = ca[ca$city == "San Francisco","long"], 
-              lat = ca[ca$city == "San Francisco","lat"], 
-              zoom = 7) 
+      setView(lng = ca[ca$city == "Fresno","long"], 
+              lat = ca[ca$city == "Fresno","lat"], 
+              zoom = 6) 
   })
   
   leafletProxy("camap",data=ca) %>% #%>% clearMarkers()
     addCircleMarkers(data = ca,
                      fillOpacity = 0.6,
-                     radius = ~(sqrt(pop/land_area)/5),
+                     radius = ~(sqrt(pop)/30),
                      weight = 1,
                      label = ~city,
                      color = ~starbuckspal(make_bins(starbucks_count/pop))) %>%
